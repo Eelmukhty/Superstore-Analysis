@@ -45,7 +45,6 @@ A card visual was used to represent this Top_product :
 
 # report snapshot    (power bi Desktop)
 ![powerbiDesktopPreview](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/a27f222d-8c05-47a0-b5cd-5df6fea38084)
-![Screenshot (5)](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/9d2b8a22-400d-4784-aa5f-d02b2875e9a8)
 
 
 
