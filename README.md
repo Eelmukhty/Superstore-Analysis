@@ -29,6 +29,7 @@ A card visual was used to illustrate the expression:
 - step 15 : Two additional  measures were used to calculate the Total_profit and Total_sales across four year periods and the following Dax measure was used respectively : Total_profit = SUM(superstore_dataset[profit])
 Total_sales = SUM(superstore_dataset[sales]).
 A card visual was used to represent them :![TotalPofit](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/45b34049-cb5b-439a-9bea-ad6c8791ce1d)
+
 ![Total_sales](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/bd5463b2-baaf-464b-8ae3-0e8256a7d8d2)
 
 - step 16 : A line chart was used to illustrate the total_sales by year in which it shows an increasing order of growth in sales.
