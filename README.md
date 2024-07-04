@@ -22,7 +22,9 @@ It’s also good to know that 2022 has the highest sales rate compared to the pr
 - step 11 : A Funnel was also added to showcase the Total_orders by category
 - step 12 : A pie chart was also added to showcase Total_sales and sum of profit by category
 - step 13 : A measure was created to calculate the total_orders and the following Dax measure was used: Total_orders = COUNT(superstore_dataset[order_id])
-A card visual was used to represent the Total_orders : 
+A card visual was used to represent the Total_orders :
+![totalOrders)](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/5576ced6-5484-4859-8e45-dcaf6ed64e6b)
+
 
 - step 14 : Another measure was used to calculate the over_all customers and the following Dax measure was used : Overall-customers = DISTINCTCOUNT(superstore_dataset[customer])
 A card visual was used to illustrate the expression: 
