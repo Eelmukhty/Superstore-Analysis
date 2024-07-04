@@ -27,7 +27,9 @@ A card visual was used to represent the Total_orders :
 
 
 - step 14 : Another measure was used to calculate the over_all customers and the following Dax measure was used : Overall-customers = DISTINCTCOUNT(superstore_dataset[customer])
-A card visual was used to illustrate the expression: 
+A card visual was used to illustrate the expression:
+![Customers](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/6fcbab9c-f054-4ce8-88f1-8075b8015277)
+
 - step 15 : Two additional  measures were used to calculate the Total_profit and Total_sales across four year periods and the following Dax measure was used respectively : Total_profit = SUM(superstore_dataset[profit])
 Total_sales = SUM(superstore_dataset[sales]).
 A card visual was used to represent them :
