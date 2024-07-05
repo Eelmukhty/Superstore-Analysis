@@ -51,6 +51,8 @@ CALCULATE(
 )
 
 A card visual was used to represent this Top_product :
+# ![Screenshot (5)](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/b02d9313-3fc1-4fb3-8587-f9f00ff61f01)
+
 
 # report snapshot    (power bi Desktop)
 ![powerbiDesktopPreview](https://github.com/Eelmukhty/Superstore-Analysis/assets/170774661/a27f222d-8c05-47a0-b5cd-5df6fea38084)
